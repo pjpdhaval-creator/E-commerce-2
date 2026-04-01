@@ -11,8 +11,9 @@ const CategorySection = () => {
             <p className="text-md text-white bg-[#774936] px-4 py-2 inline-block rounded-full backdrop-blur-sm">2500+ Items</p>
             <h2 className="text-4xl font-semibold my-5">For Women’s</h2>
             <p className="text-gray-500 text-md my-4">
-              Lorem ipsum dolor sit amet, 
-consectetur adipiscing elit, sed do
+              Lorem ipsum dolor sit amet,  
+              <br />
+              consectetur adipiscing elit, sed do
             </p>
 
             <ul className="my-4 space-y-5 text-md text-gray-700">
@@ -51,7 +52,7 @@ consectetur adipiscing elit, sed do
             <img
               src="/Category/men 1.png"
               alt="men"
-              className="absolute -right-20 bottom-0 w-[90%] object-contain rotate-y-180"
+              className="absolute -right-20  h-78 bottom-0 w-[90%] object-contain rotate-y-180"
             />
           </div>
 

@@ -12,7 +12,7 @@ const NavBar = () => {
             <img
               src="/logo.png"
               alt="logo"
-              className="h-10 w-35 object-cover"
+              className=" h-15 object-cover"
             />
           </div>
 

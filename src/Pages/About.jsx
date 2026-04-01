@@ -106,8 +106,8 @@ export default function AboutUsPage() {
           <TeamCard
             name="Arlene McCoy"
             role="Designer"
-            img="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80"
-          />
+            img="https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80" 
+              />
           <TeamCard
             name="Bessie Cooper"
             role="CEO"
@@ -116,7 +116,7 @@ export default function AboutUsPage() {
           <TeamCard
             name="Jenny Wilson"
             role="Developer"
-            img="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80"
+            img="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80" 
           />
         </div>
       </section>

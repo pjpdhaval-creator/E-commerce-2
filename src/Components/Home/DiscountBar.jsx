@@ -27,7 +27,7 @@ const DiscontBar = () => {
           <img
             src="/Images/01 2.png"
             alt="men's image"
-            className="rotate-y-180 top-20  absolute bottom-0 -right-20 scale-150"
+            className="rotate-y-180 top-25  absolute bottom-0 -right-10 scale-150"
           />
         </div>
 
@@ -54,7 +54,7 @@ const DiscontBar = () => {
           <img
             src="/Images/02 2.png"
             alt="women's image"
-            className="absolute bottom-0 top-10 -right-75 scale-150"
+            className="absolute bottom-0 top-15 -right-70 scale-150"
           />
         </div>
       </section>

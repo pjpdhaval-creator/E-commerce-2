@@ -12,7 +12,7 @@ import {
 
 export default function ContactPage() {
   return (
-    <div className="min-h-screen bg-white text-slate-900 font-sans">
+    <div className="min-h-screen  text-slate-900 font-sans">
       
 
       {/* Hero Header */}
@@ -23,6 +23,7 @@ export default function ContactPage() {
 
       {/* Main Contact Section */}
       <section className="max-w-6xl mx-auto px-6 py-20 grid md:grid-cols-3 gap-12">
+        
         {/* Contact Form */}
         <div className="md:col-span-2">
           <h2 className="text-2xl font-bold mb-4">Get in Touch</h2>
